@@ -36,6 +36,18 @@
     "licencas/LICENSE-VSCO-2-CE.txt"
    ],
    "conteudo": "violino.sfz, violino-spiccato.sfz, harpa.sfz + amostras Ogg Vorbis q5"
+  },
+  {
+   "id": "separador-runtime-wasm",
+   "arquivo": "ort-wasm-simd-threaded.wasm",
+   "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/ort-wasm-simd-threaded.wasm",
+   "bytes": 11905541,
+   "sha256": "45eaee27761ad883742a8d4b8fce1538d60ce43b51adf1726fafccc59b8c1a15",
+   "licenca": "MIT",
+   "licencas": [
+    "licencas/LICENSE-onnxruntime.txt"
+   ],
+   "nota": "runtime só WASM (sem WebGPU), usado pelo app a partir de 07/11/2026"
   }
  ]
 }
