@@ -1,0 +1,8 @@
+{
+ "versao": 1,
+ "release": "ativos-v1",
+ "ativos": [
+  { "id": "separador-modelo", "arquivo": "htdemucs.onnx", "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/htdemucs.onnx", "bytes": 174266088, "sha256": "e528a932a7d091e15938369135569884b62c2193fb11044c3d4a0d4c7b9221af", "licenca": "MIT", "licencas": ["licencas/LICENSE-demucs.txt", "licencas/LICENSE-htdemucs-onnx.txt"] },
+  { "id": "separador-runtime", "arquivo": "ort-wasm-simd-threaded.jsep.wasm", "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/ort-wasm-simd-threaded.jsep.wasm", "bytes": 23824254, "sha256": "ac0d8f1cfbf2732420ad78a86072b8507253c63885a61c3fd640b3055256d31d", "licenca": "MIT", "licencas": ["licencas/LICENSE-onnxruntime.txt"] }
+ ]
+}
