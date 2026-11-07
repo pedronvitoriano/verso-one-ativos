@@ -48,6 +48,30 @@
     "licencas/LICENSE-onnxruntime.txt"
    ],
    "nota": "runtime só WASM (sem WebGPU), usado pelo app a partir de 07/11/2026"
+  },
+  {
+   "id": "violao-classico",
+   "arquivo": "violao-classico-v1.zip",
+   "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/violao-classico-v1.zip",
+   "bytes": 1213754,
+   "sha256": "896f674f534efdaeb4f2bc1e24f9ac2e1d84877078f58fd44b5b870ed6e9bf75",
+   "licenca": "CC0-1.0",
+   "licencas": [
+    "licencas/LICENSE-FreePats-CC0.txt"
+   ],
+   "origem": "FreePats Spanish Classical Guitar 2019-06-18"
+  },
+  {
+   "id": "orgao-igreja",
+   "arquivo": "orgao-igreja-v1.zip",
+   "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/orgao-igreja-v1.zip",
+   "bytes": 747893,
+   "sha256": "1707c8d2d63f6ede725af645b399948ac83bc7bf94ef89f743b92b9d8874b91e",
+   "licenca": "CC0-1.0",
+   "licencas": [
+    "licencas/LICENSE-FreePats-CC0.txt"
+   ],
+   "origem": "FreePats Church Organ Emulation 2019-09-24"
   }
  ]
 }
