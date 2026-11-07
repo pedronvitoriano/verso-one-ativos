@@ -2,7 +2,40 @@
  "versao": 1,
  "release": "ativos-v1",
  "ativos": [
-  { "id": "separador-modelo", "arquivo": "htdemucs.onnx", "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/htdemucs.onnx", "bytes": 174266088, "sha256": "e528a932a7d091e15938369135569884b62c2193fb11044c3d4a0d4c7b9221af", "licenca": "MIT", "licencas": ["licencas/LICENSE-demucs.txt", "licencas/LICENSE-htdemucs-onnx.txt"] },
-  { "id": "separador-runtime", "arquivo": "ort-wasm-simd-threaded.jsep.wasm", "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/ort-wasm-simd-threaded.jsep.wasm", "bytes": 23824254, "sha256": "ac0d8f1cfbf2732420ad78a86072b8507253c63885a61c3fd640b3055256d31d", "licenca": "MIT", "licencas": ["licencas/LICENSE-onnxruntime.txt"] }
+  {
+   "id": "separador-modelo",
+   "arquivo": "htdemucs.onnx",
+   "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/htdemucs.onnx",
+   "bytes": 174266088,
+   "sha256": "e528a932a7d091e15938369135569884b62c2193fb11044c3d4a0d4c7b9221af",
+   "licenca": "MIT",
+   "licencas": [
+    "licencas/LICENSE-demucs.txt",
+    "licencas/LICENSE-htdemucs-onnx.txt"
+   ]
+  },
+  {
+   "id": "separador-runtime",
+   "arquivo": "ort-wasm-simd-threaded.jsep.wasm",
+   "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/ort-wasm-simd-threaded.jsep.wasm",
+   "bytes": 23824254,
+   "sha256": "ac0d8f1cfbf2732420ad78a86072b8507253c63885a61c3fd640b3055256d31d",
+   "licenca": "MIT",
+   "licencas": [
+    "licencas/LICENSE-onnxruntime.txt"
+   ]
+  },
+  {
+   "id": "cordas-solo",
+   "arquivo": "cordas-solo-v1.zip",
+   "url": "https://github.com/pedronvitoriano/verso-one-ativos/releases/download/ativos-v1/cordas-solo-v1.zip",
+   "bytes": 7879462,
+   "sha256": "5917ac1a180665a8f473e7e5a7a627fabeb1a15a54ee366497acd6d68ad665a6",
+   "licenca": "CC0-1.0",
+   "licencas": [
+    "licencas/LICENSE-VSCO-2-CE.txt"
+   ],
+   "conteudo": "violino.sfz, violino-spiccato.sfz, harpa.sfz + amostras Ogg Vorbis q5"
+  }
  ]
 }
