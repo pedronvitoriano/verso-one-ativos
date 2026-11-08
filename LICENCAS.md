@@ -3,7 +3,7 @@
 | Ativo | Arquivo | Origem | Licença | Crédito |
 |---|---|---|---|---|
 | Separação de voz (HTDemucs v4, ONNX) | `htdemucs.onnx` | Pesos: facebookresearch/demucs (Meta). Exportação ONNX: huggingface.co/Ghilda/htdemucs-onnx | MIT (pesos e exportação) — `licencas/LICENSE-demucs.txt`, `licencas/LICENSE-htdemucs-onnx.txt` | HTDemucs © Meta Platforms (S. Rouard, F. Massa, A. Défossez); exportação ONNX © 2026 Ghilda |
-| Runtime de IA local (onnxruntime-web 1.23.2, WebAssembly + WebGPU) | `ort-wasm-simd-threaded.jsep.wasm` | npm `onnxruntime-web@1.23.2` | MIT — `licencas/LICENSE-onnxruntime.txt` | © Microsoft Corporation |
+| Runtime de IA local (onnxruntime-web 1.23.2, WebAssembly) | `ort-wasm-simd-threaded.wasm` | npm `onnxruntime-web@1.23.2` | MIT — `licencas/LICENSE-onnxruntime.txt` | © Microsoft Corporation |
 | Cordas solo: violino (arco com vibrato e spiccato) e harpa | `cordas-solo-v1.zip` | VS Chamber Orchestra 2: Community Edition (github.com/sgossner/VSCO-2-CE), subconjunto em Ogg Vorbis q5 com loop feito pelo Verso One | CC0 1.0 — `licencas/LICENSE-VSCO-2-CE.txt` | Versilian Studios |
 | Violão clássico gravado | violao-classico-v1.zip | FreePats, Spanish Classical Guitar (freepats.zenvoid.org), em Ogg Vorbis q5 | CC0 1.0 — licencas/LICENSE-FreePats-CC0.txt | Roberto Gordo Saez (FreePats) |
 | Órgão de igreja | orgao-igreja-v1.zip | FreePats, Church Organ Emulation (gravado do Aeolus), em Ogg Vorbis q5 | CC0 1.0 — licencas/LICENSE-FreePats-CC0.txt | Roberto Gordo Saez (FreePats) |
